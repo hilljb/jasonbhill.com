@@ -47,6 +47,22 @@ icon = "fa-solid fa-blog"
   email = "jason@jasonbhill.com"
   avatar = ""
 
+# App Icon Configuration
+[params.app]
+  title = "Jason B. Hill"
+  noFavicon = false
+  iconColor = "#5bbad5"
+  tileColor = "#da532c"
+
+[params.app.themeColor]
+  light = "#f8f8f8"
+  dark = "#252627"
+
+# Header Configuration
+[params.header.title]
+  logo = "/images/logo.png"
+  name = "Jason B. Hill"
+
 # Footer Configuration
 [params.footer]
   since = 1999
