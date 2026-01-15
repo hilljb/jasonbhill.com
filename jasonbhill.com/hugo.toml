@@ -1,0 +1,93 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Jason B. Hill'
+theme = 'FixIt'
+
+[markup]
+_merge = "shallow"
+
+[outputs]
+_merge = "shallow"
+
+[taxonomies]
+_merge = "shallow"
+
+# Menu Configuration
+[[menus.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[menus.main.params]
+icon = "fa-solid fa-home"
+
+[[menus.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
+
+[menus.main.params]
+icon = "fa-solid fa-user"
+
+[[menus.main]]
+identifier = "blog"
+name = "Blog"
+url = "/posts/"
+weight = 3
+
+[menus.main.params]
+icon = "fa-solid fa-blog"
+
+# Author Configuration
+[params.author]
+  name = "Jason B. Hill"
+  link = ""
+  email = "jason@jasonbhill.com"
+  avatar = ""
+
+# App Icon Configuration
+[params.app]
+  title = "Jason B. Hill"
+  noFavicon = false
+  iconColor = "#5bbad5"
+  tileColor = "#da532c"
+
+[params.app.themeColor]
+  light = "#f8f8f8"
+  dark = "#252627"
+
+# Header Configuration
+[params.header.title]
+  logo = "/images/logo.png"
+  name = "Jason B. Hill"
+
+# Footer Configuration
+[params.footer]
+  since = 1999
+
+[params.footer.powered]
+  enable = false
+
+# Home Page Configuration
+[params.home]
+
+# Home page profile
+[params.home.profile]
+  enable = true
+  gravatarEmail = ""
+  avatarURL = "/images/jason512x512.png"
+  title = "Jason B. Hill"
+  subtitle = ""
+  typeit = false
+  social = false
+  disclaimer = ""
+
+# Home page posts - disable to not show posts on home page
+[params.home.posts]
+  enable = false
+
+# Social links configuration - disable RSS
+[params.social]
+  RSS = false

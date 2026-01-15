@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:57345/categories/building/</loc>
+    <lastmod>2026-01-14T09:53:26-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:57345/categories/</loc>
+    <lastmod>2026-01-14T09:53:26-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:57345/tags/hugo/</loc>
+    <lastmod>2026-01-14T09:53:26-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:57345/</loc>
+    <lastmod>2026-01-14T09:53:26-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:57345/posts/</loc>
+    <lastmod>2026-01-14T09:53:26-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:57345/tags/</loc>
+    <lastmod>2026-01-14T09:53:26-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:57345/tags/test/</loc>
+    <lastmod>2026-01-14T09:53:26-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:57345/posts/583bc6c/</loc>
+    <lastmod>2026-01-14T09:53:26-07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:57345/about/</loc>
+    <lastmod>2026-01-14T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:57345/collections/</loc>
+  </url>
+</urlset>
