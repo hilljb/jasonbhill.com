@@ -77,13 +77,17 @@ icon = "fa-solid fa-blog"
 [params.home.profile]
   enable = true
   gravatarEmail = ""
-  avatarURL = ""
+  avatarURL = "/images/jason512x512.png"
   title = "Jason B. Hill"
-  subtitle = "Welcome to my personal website"
-  typeit = true
-  social = true
+  subtitle = ""
+  typeit = false
+  social = false
   disclaimer = ""
 
 # Home page posts - disable to not show posts on home page
 [params.home.posts]
   enable = false
+
+# Social links configuration - disable RSS
+[params.social]
+  RSS = false

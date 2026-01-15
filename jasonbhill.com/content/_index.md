@@ -3,9 +3,7 @@ title: "Jason B. Hill"
 description: "Personal website of Jason B. Hill"
 ---
 
-Welcome to my personal website. Here you'll find information about my work, interests, and thoughts.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
 
-Use the navigation above to explore the site:
-- **About**: Learn more about me
-- **Blog**: Read my latest posts and thoughts
+**[About](/about/)** | **[Blog](/posts/)**
 
