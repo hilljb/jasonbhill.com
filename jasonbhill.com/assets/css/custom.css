@@ -6,3 +6,9 @@
 .sidebar__introduction-title {
   text-transform: none;
 }
+
+/* Move sidebar content to top instead of vertically centered */
+.sidebar__content {
+  justify-content: flex-start;
+  padding-top: 24px;
+}
