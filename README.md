@@ -2,6 +2,5 @@
 
 This is the repo that backs my website.
 
-### Hugo and FixIt
+### Hugo and Anatole
 
-Quick start notes can be found [here](https://fixit.lruihao.cn/documentation/getting-started/quick-start/)
