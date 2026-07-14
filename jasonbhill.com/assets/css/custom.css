@@ -1,0 +1,8 @@
+/* Override theme uppercase text transforms */
+.nav-item {
+  text-transform: none;
+}
+
+.sidebar-title {
+  text-transform: none;
+}
