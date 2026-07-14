@@ -1,2 +1,7 @@
-jasonbhill.com/public
 .DS_Store
+
+# Hugo build artifacts
+jasonbhill.com/public
+jasonbhill.com/resources
+jasonbhill.com/.hugo_cache
+jasonbhill.com/.hugo_build.lock
