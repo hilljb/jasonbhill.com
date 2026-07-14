@@ -1,8 +1,8 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
-#copyright = "2020-2021"
-description = "Call me Jane"
+title = "Jason B. Hill"
+author = "Jason B. Hill"
+copyright = "Jason B. Hill 1999-{{ YEAR }}"
+description = "Data Scientist & Developer"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
