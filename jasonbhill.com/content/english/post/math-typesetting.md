@@ -3,6 +3,7 @@ author: Hugo Authors
 title: Math Typesetting
 date: 2025-02-23
 description: A brief guide to setup and use KaTeX
+tags: [ "testing" ]
 ---
 
 For math typesetting in a Hugo project, you can leverage hugo's internal [\(\KaTeX\)](https://katex.org/) rendering engine.
