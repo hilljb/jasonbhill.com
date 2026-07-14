@@ -1,8 +1,8 @@
 /* Override theme uppercase text transforms */
-.nav-item {
+.nav__list-item {
   text-transform: none;
 }
 
-.sidebar-title {
+.sidebar__introduction-title {
   text-transform: none;
 }
