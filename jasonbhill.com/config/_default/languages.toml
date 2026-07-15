@@ -1,0 +1,5 @@
+[en]
+title = "My blog"
+weight = 1
+label = "EN"
+contentDir = "content/english"

@@ -1,0 +1,20 @@
+/* Override theme uppercase text transforms */
+.nav__list-item {
+  text-transform: none;
+}
+
+.sidebar__introduction-title {
+  text-transform: none;
+}
+
+/* Move sidebar content to top instead of vertically centered */
+.sidebar__content {
+  justify-content: flex-start;
+  padding-top: 24px;
+}
+
+/* Increase profile image size */
+.sidebar__introduction-profileimage {
+  width: 180px;
+  height: 180px;
+}
