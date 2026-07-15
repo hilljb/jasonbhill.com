@@ -3,7 +3,7 @@ title = "Jason B. Hill"
 author = "Jason B. Hill"
 copyright = "Jason B. Hill 1999-{{ YEAR }}"
 description = "Data Scientist & Developer"
-profilePicture = "images/profile.jpg"
+profilePicture = "images/profile.png"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -62,22 +62,17 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 [[socialIcons]]
 icon = "fa-brands fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/hilljb/"
 
 [[socialIcons]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
-
-[[socialIcons]]
-icon = "fa-brands fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://github.com/hilljb"
 
 [[socialIcons]]
 icon = "fa-solid fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:jason@jasonbhill.com"
 
 [mermaid]
 # enable = true
